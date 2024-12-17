@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Restaurant Menu";
+    var menu = ViewBag.Menu as List<testasp.net_core.Models.Vare>;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Restaurant Menu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+</head>
+<body>
+    <h1>Velkommen til restauranten</h1>
+    <h3>Menu</h3>
+    <ul>
+        @foreach (var vare in menu)
+        {
+            <li>@vare.ret: @vare.pris kr.</li>
+        }
+    </ul>
+
+    <h3>Indtast information</h3>
+    <form asp-action="Index" asp-controller="Home" method="post">
+        <label for="ret">Vælg en ret:</label>
+        <select id="ret" name="valgtRet" required>
+            <option value="">-- Vælg en ret --</option>
+            @foreach (var vare in menu)
+            {
+                <option value="@vare.ret">@vare.ret</option>
+            }
+        </select>
+
+        <label for="alder">Indtast din alder:</label>
+        <input type="number" id="alder" name="alder" min="1" required />
+
+        <button type="submit">Beregn pris</button>
+    </form>
+
+    @if (ViewBag.PrisAtBetale != null)
+    {
+        <h3>Resultat</h3>
+        <p>Du har valgt: @ViewBag.ValgtRet</p>
+        <p>Prisen du skal betale: <strong>@ViewBag.PrisAtBetale kr.</strong></p>
+    }
+</body>
+</html>

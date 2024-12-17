@@ -1,0 +1,31 @@
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\appsettings.json
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\testasp.net core.staticwebassets.endpoints.json
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\testasp.net core.exe
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\testasp.net core.deps.json
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\testasp.net core.runtimeconfig.json
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\testasp.net core.dll
+C:\Users\kehan\source\repos\testasp.net core\bin\Debug\net8.0\testasp.net core.pdb
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.AssemblyInfo.cs
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\scopedcss\bundle\testasp.net core.styles.css
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.testasp.net core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.testasp.net core.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.build.testasp.net core.props
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testasp.net core.props
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testasp.net core.props
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.dll
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\refint\testasp.net core.dll
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.pdb
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.genruntimeconfig.cache
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\ref\testasp.net core.dll
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.RazorAssemblyInfo.cache
+C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.RazorAssemblyInfo.cs
