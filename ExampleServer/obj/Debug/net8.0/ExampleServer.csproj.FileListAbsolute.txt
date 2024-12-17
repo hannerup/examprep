@@ -1,0 +1,14 @@
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.AssemblyInfo.cs
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\ExampleServer\bin\Debug\net8.0\ExampleServer.exe
+C:\Users\kehan\source\repos\ExampleServer\bin\Debug\net8.0\ExampleServer.deps.json
+C:\Users\kehan\source\repos\ExampleServer\bin\Debug\net8.0\ExampleServer.runtimeconfig.json
+C:\Users\kehan\source\repos\ExampleServer\bin\Debug\net8.0\ExampleServer.dll
+C:\Users\kehan\source\repos\ExampleServer\bin\Debug\net8.0\ExampleServer.pdb
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.dll
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\refint\ExampleServer.dll
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.pdb
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ExampleServer.genruntimeconfig.cache
+C:\Users\kehan\source\repos\ExampleServer\obj\Debug\net8.0\ref\ExampleServer.dll
