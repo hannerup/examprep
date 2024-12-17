@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kehan\\OneDrive\\Dokumenter\\examprep\\XML_cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{512F2073-E938-4108-8A8A-618252165760}|xmltest2.csproj|c:\\users\\kehan\\source\\repos\\xmltest2\\xmltest2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F2073-E938-4108-8A8A-618252165760}|xmltest2.csproj|c:\\users\\kehan\\source\\repos\\xmltest2\\cars2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F2073-E938-4108-8A8A-618252165760}|xmltest2.csproj|c:\\users\\kehan\\source\\repos\\xmltest2\\cars.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F2073-E938-4108-8A8A-618252165760}|xmltest2.csproj|c:\\users\\kehan\\source\\repos\\xmltest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F2073-E938-4108-8A8A-618252165760}|xmltest2.csproj|c:\\users\\kehan\\source\\repos\\xmltest2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F2073-E938-4108-8A8A-618252165760}|xmltest2.csproj|c:\\users\\kehan\\source\\repos\\xmltest2\\extensionmethoed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\car.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\xmltest2\\car.cs",
+              "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\car.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\xmltest2\\car.cs",
+              "ViewState": "AgIAAAoAAABA/////38ZwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:14:06.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cars2.xml",
+              "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars2.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\xmltest2\\cars2.xml",
+              "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars2.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\xmltest2\\cars2.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-17T15:44:42.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xmltest2",
+              "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\xmltest2.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\xmltest2\\xmltest2.csproj",
+              "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\xmltest2.csproj*",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\xmltest2\\xmltest2.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T15:32:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cars.xml",
+              "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\xmltest2\\cars.xml",
+              "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\xmltest2\\cars.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-02T12:31:16.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "extensionmethoed.cs",
+              "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\extensionmethoed.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\xmltest2\\extensionmethoed.cs",
+              "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\extensionmethoed.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\xmltest2\\extensionmethoed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:12:17.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\xmltest2\\Program.cs",
+              "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\xmltest2\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAMzMzM/MlwG0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:11:50.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
