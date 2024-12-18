@@ -1,0 +1,14 @@
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.AssemblyInfo.cs
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\ExampleClient\bin\Debug\net8.0\ExampleClient.exe
+C:\Users\kehan\source\repos\ExampleClient\bin\Debug\net8.0\ExampleClient.deps.json
+C:\Users\kehan\source\repos\ExampleClient\bin\Debug\net8.0\ExampleClient.runtimeconfig.json
+C:\Users\kehan\source\repos\ExampleClient\bin\Debug\net8.0\ExampleClient.dll
+C:\Users\kehan\source\repos\ExampleClient\bin\Debug\net8.0\ExampleClient.pdb
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.dll
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\refint\ExampleClient.dll
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.pdb
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ExampleClient.genruntimeconfig.cache
+C:\Users\kehan\source\repos\ExampleClient\obj\Debug\net8.0\ref\ExampleClient.dll
