@@ -1,0 +1,16 @@
+F:\examprep\XML_cars\bin\Debug\net8.0\xmlcars2.exe
+F:\examprep\XML_cars\bin\Debug\net8.0\xmlcars2.deps.json
+F:\examprep\XML_cars\bin\Debug\net8.0\xmlcars2.runtimeconfig.json
+F:\examprep\XML_cars\bin\Debug\net8.0\xmlcars2.dll
+F:\examprep\XML_cars\bin\Debug\net8.0\xmlcars2.pdb
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.GeneratedMSBuildEditorConfig.editorconfig
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.AssemblyInfoInputs.cache
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.AssemblyInfo.cs
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.csproj.CoreCompileInputs.cache
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.sourcelink.json
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.dll
+F:\examprep\XML_cars\obj\Debug\net8.0\refint\xmlcars2.dll
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.pdb
+F:\examprep\XML_cars\obj\Debug\net8.0\xmlcars2.genruntimeconfig.cache
+F:\examprep\XML_cars\obj\Debug\net8.0\ref\xmlcars2.dll
+F:\examprep\XML_cars\bin\Debug\net8.0\cars.xml

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kehan\\source\\repos\\ExampleServer\\ExampleServer.csproj",
+      "projectUniqueName": "F:\\examprep\\clientserverfjk\\ExampleServer\\ExampleServer.csproj",
       "projectName": "ExampleServer",
-      "projectPath": "C:\\Users\\kehan\\source\\repos\\ExampleServer\\ExampleServer.csproj",
+      "projectPath": "F:\\examprep\\clientserverfjk\\ExampleServer\\ExampleServer.csproj",
       "packagesPath": "C:\\Users\\kehan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kehan\\source\\repos\\ExampleServer\\obj\\",
+      "outputPath": "F:\\examprep\\clientserverfjk\\ExampleServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

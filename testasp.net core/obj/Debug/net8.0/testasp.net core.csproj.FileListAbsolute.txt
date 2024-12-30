@@ -29,3 +29,35 @@ C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.g
 C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\ref\testasp.net core.dll
 C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.RazorAssemblyInfo.cache
 C:\Users\kehan\source\repos\testasp.net core\obj\Debug\net8.0\testasp.net core.RazorAssemblyInfo.cs
+F:\examprep\testasp.net core\bin\Debug\net8.0\appsettings.Development.json
+F:\examprep\testasp.net core\bin\Debug\net8.0\appsettings.json
+F:\examprep\testasp.net core\bin\Debug\net8.0\testasp.net core.staticwebassets.endpoints.json
+F:\examprep\testasp.net core\bin\Debug\net8.0\testasp.net core.exe
+F:\examprep\testasp.net core\bin\Debug\net8.0\testasp.net core.deps.json
+F:\examprep\testasp.net core\bin\Debug\net8.0\testasp.net core.runtimeconfig.json
+F:\examprep\testasp.net core\bin\Debug\net8.0\testasp.net core.dll
+F:\examprep\testasp.net core\bin\Debug\net8.0\testasp.net core.pdb
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.GeneratedMSBuildEditorConfig.editorconfig
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.AssemblyInfoInputs.cache
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.AssemblyInfo.cs
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.csproj.CoreCompileInputs.cache
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.MvcApplicationPartsAssemblyInfo.cache
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.RazorAssemblyInfo.cache
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.RazorAssemblyInfo.cs
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.sourcelink.json
+F:\examprep\testasp.net core\obj\Debug\net8.0\scopedcss\bundle\testasp.net core.styles.css
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets.build.json
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets.development.json
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.testasp.net core.Microsoft.AspNetCore.StaticWebAssets.props
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.testasp.net core.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.build.testasp.net core.props
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testasp.net core.props
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testasp.net core.props
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets.pack.json
+F:\examprep\testasp.net core\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.dll
+F:\examprep\testasp.net core\obj\Debug\net8.0\refint\testasp.net core.dll
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.pdb
+F:\examprep\testasp.net core\obj\Debug\net8.0\testasp.net core.genruntimeconfig.cache
+F:\examprep\testasp.net core\obj\Debug\net8.0\ref\testasp.net core.dll

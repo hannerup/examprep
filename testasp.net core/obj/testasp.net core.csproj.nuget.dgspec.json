@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kehan\\source\\repos\\testasp.net core\\testasp.net core.csproj": {}
+    "F:\\examprep\\testasp.net core\\testasp.net core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kehan\\source\\repos\\testasp.net core\\testasp.net core.csproj": {
+    "F:\\examprep\\testasp.net core\\testasp.net core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kehan\\source\\repos\\testasp.net core\\testasp.net core.csproj",
+        "projectUniqueName": "F:\\examprep\\testasp.net core\\testasp.net core.csproj",
         "projectName": "testasp.net core",
-        "projectPath": "C:\\Users\\kehan\\source\\repos\\testasp.net core\\testasp.net core.csproj",
+        "projectPath": "F:\\examprep\\testasp.net core\\testasp.net core.csproj",
         "packagesPath": "C:\\Users\\kehan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kehan\\source\\repos\\testasp.net core\\obj\\",
+        "outputPath": "F:\\examprep\\testasp.net core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

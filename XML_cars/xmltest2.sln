@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmltest2", "..\..\..\..\source\repos\xmltest2\xmltest2.csproj", "{512F2073-E938-4108-8A8A-618252165760}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlcars2", "xmlcars2.csproj", "{12032806-D06D-477D-AA15-28EF5FFB9079}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{512F2073-E938-4108-8A8A-618252165760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{512F2073-E938-4108-8A8A-618252165760}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{512F2073-E938-4108-8A8A-618252165760}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{512F2073-E938-4108-8A8A-618252165760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12032806-D06D-477D-AA15-28EF5FFB9079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12032806-D06D-477D-AA15-28EF5FFB9079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12032806-D06D-477D-AA15-28EF5FFB9079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12032806-D06D-477D-AA15-28EF5FFB9079}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
