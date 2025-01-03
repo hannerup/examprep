@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{12032806-D06D-477D-AA15-28EF5FFB9079}|xmlcars2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12032806-D06D-477D-AA15-28EF5FFB9079}|xmlcars2.csproj|f:\\examprep\\xml_cars\\extensionmethoed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12032806-D06D-477D-AA15-28EF5FFB9079}|xmlcars2.csproj|solutionrelative:extensionmethoed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12032806-D06D-477D-AA15-28EF5FFB9079}|xmlcars2.csproj|f:\\examprep\\xml_cars\\cars.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12032806-D06D-477D-AA15-28EF5FFB9079}|xmlcars2.csproj|solutionrelative:cars.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kehan\\source\\repos\\xmltest2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -29,17 +37,43 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "car.cs",
               "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\car.cs",
               "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\car.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T12:14:06.402Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "extensionmethoed.cs",
+              "DocumentMoniker": "F:\\examprep\\XML_cars\\extensionmethoed.cs",
+              "RelativeDocumentMoniker": "extensionmethoed.cs",
+              "ToolTip": "F:\\examprep\\XML_cars\\extensionmethoed.cs",
+              "RelativeToolTip": "extensionmethoed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:24:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cars.xml",
+              "DocumentMoniker": "F:\\examprep\\XML_cars\\cars.xml",
+              "RelativeDocumentMoniker": "cars.xml",
+              "ToolTip": "F:\\examprep\\XML_cars\\cars.xml",
+              "RelativeToolTip": "cars.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-02T21:24:04.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -69,14 +103,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\examprep\\XML_cars\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwDYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T16:56:22.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "cars2.xml",
               "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars2.xml",
               "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars2.xml",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "cars.xml",
               "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars.xml",
               "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\cars.xml",
@@ -96,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "extensionmethoed.cs",
               "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\extensionmethoed.cs",
               "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\extensionmethoed.cs",
@@ -106,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kehan\\source\\repos\\xmltest2\\Program.cs",
               "ToolTip": "C:\\Users\\kehan\\source\\repos\\xmltest2\\Program.cs",
