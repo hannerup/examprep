@@ -1,0 +1,14 @@
+C:\Users\kehan\source\repos\xmlbil\bin\Debug\net8.0\xmlbil.exe
+C:\Users\kehan\source\repos\xmlbil\bin\Debug\net8.0\xmlbil.deps.json
+C:\Users\kehan\source\repos\xmlbil\bin\Debug\net8.0\xmlbil.runtimeconfig.json
+C:\Users\kehan\source\repos\xmlbil\bin\Debug\net8.0\xmlbil.dll
+C:\Users\kehan\source\repos\xmlbil\bin\Debug\net8.0\xmlbil.pdb
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.AssemblyInfo.cs
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.dll
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\refint\xmlbil.dll
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.pdb
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\xmlbil.genruntimeconfig.cache
+C:\Users\kehan\source\repos\xmlbil\obj\Debug\net8.0\ref\xmlbil.dll

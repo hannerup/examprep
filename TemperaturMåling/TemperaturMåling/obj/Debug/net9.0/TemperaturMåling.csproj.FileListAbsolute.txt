@@ -1,0 +1,29 @@
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.exe
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.deps.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.runtimeconfig.json
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.AssemblyInfoInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.AssemblyInfo.cs
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.csproj.CoreCompileInputs.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\refint\TemperaturMåling.dll
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.pdb
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.genruntimeconfig.cache
+C:\Users\UMUTCAN\OneDrive - Erhvervsakademi MidtVest\Skrivebord\csharp\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\ref\TemperaturMåling.dll
+F:\examprep\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.exe
+F:\examprep\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.deps.json
+F:\examprep\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.runtimeconfig.json
+F:\examprep\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.dll
+F:\examprep\TemperaturMåling\TemperaturMåling\bin\Debug\net9.0\TemperaturMåling.pdb
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.GeneratedMSBuildEditorConfig.editorconfig
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.AssemblyInfoInputs.cache
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.AssemblyInfo.cs
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.csproj.CoreCompileInputs.cache
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.sourcelink.json
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.dll
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\refint\TemperaturMåling.dll
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.pdb
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\TemperaturMåling.genruntimeconfig.cache
+F:\examprep\TemperaturMåling\TemperaturMåling\obj\Debug\net9.0\ref\TemperaturMåling.dll

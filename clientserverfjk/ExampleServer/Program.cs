@@ -79,12 +79,7 @@ namespace ExampleServer
                         }
                     }
 
-                    #region Reply to the request
-                    byte[] dataToSend = Encoding.UTF8.GetBytes(response);
-
-                    stream.Write(dataToSend, 0, dataToSend.Length);
-                    Console.WriteLine("Data sent!");
-                    #endregion
+                    
 
                 }
                 catch (Exception ex)

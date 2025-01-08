@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars>
+	<!-- Element: cars that contains 6 sub elements car -->
+	<car name="Volvo XC60">
+		<!-- Element: car with attribute "name" that is Volvo XC60; The car element has 2 sub elements "cylinders" and "country" -->
+		<cylinders>4</cylinders>
+		<!-- Element Cylinders that is 4 -->
+		<country>Sweden</country>
+		<!-- Element Country that is Sweden -->
+	</car>
+	<car name="BMW 320i">
+		<cylinders>4</cylinders>
+		<country>Germany</country>
+	</car>
+	<car name="Chevrolet Camaro">
+		<cylinders>8</cylinders>
+		<country>USA</country>
+	</car>
+	<car name="Toyota Corolla">
+		<cylinders>4</cylinders>
+		<country>Japan</country>
+	</car>
+	<car name="Mercedes-Benz E-Class">
+		<cylinders>6</cylinders>
+		<country>Germany</country>
+	</car>
+	<car name="Lamborghini Gallardo">
+		<cylinders>10</cylinders>
+		<country>Italy</country>
+	</car>
+</cars>

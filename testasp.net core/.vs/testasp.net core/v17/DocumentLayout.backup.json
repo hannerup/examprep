@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|f:\\examprep\\testasp.net core\\models\\varemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|solutionrelative:models\\varemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|f:\\examprep\\testasp.net core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|f:\\examprep\\testasp.net core\\models\\varemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|solutionrelative:models\\varemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7832283-4705-48CE-8D96-C28CE7A4E919}|testasp.net core.csproj|f:\\examprep\\testasp.net core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,15 +70,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\examprep\\testasp.net core\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "F:\\examprep\\testasp.net core\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T11:29:00.717Z"
+              "WhenOpened": "2024-12-05T11:29:00.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,22 +89,23 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "F:\\examprep\\testasp.net core\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAACAZmZmZqYowBwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T11:18:11.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VareModel.cs",
               "DocumentMoniker": "F:\\examprep\\testasp.net core\\Models\\VareModel.cs",
               "RelativeDocumentMoniker": "Models\\VareModel.cs",
               "ToolTip": "F:\\examprep\\testasp.net core\\Models\\VareModel.cs",
               "RelativeToolTip": "Models\\VareModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:15:36.846Z"
+              "WhenOpened": "2024-12-05T11:15:36.846Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

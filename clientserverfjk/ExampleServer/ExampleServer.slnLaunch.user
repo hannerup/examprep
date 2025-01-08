@@ -24,5 +24,18 @@
         "Action": "StartWithoutDebugging"
       }
     ]
+  },
+  {
+    "Name": "New Profile (2)",
+    "Projects": [
+      {
+        "Path": "ExampleServer.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\ExampleClient\\ExampleClient.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
   }
 ]

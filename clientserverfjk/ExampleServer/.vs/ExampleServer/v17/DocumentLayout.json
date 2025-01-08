@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{AE15AA50-3AAA-4E54-9547-C14A2C6DBCBB}|ExampleServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE15AA50-3AAA-4E54-9547-C14A2C6DBCBB}|ExampleServer.csproj|f:\\examprep\\clientserverfjk\\exampleserver\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{AE15AA50-3AAA-4E54-9547-C14A2C6DBCBB}|ExampleServer.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{458BCE81-B537-41FE-B3C6-4D2897F209D9}|..\\ExampleClient\\ExampleClient.csproj|f:\\examprep\\clientserverfjk\\exampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{458BCE81-B537-41FE-B3C6-4D2897F209D9}|..\\ExampleClient\\ExampleClient.csproj|f:\\examprep\\clientserverfjk\\exampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE15AA50-3AAA-4E54-9547-C14A2C6DBCBB}|ExampleServer.csproj|f:\\examprep\\clientserverfjk\\exampleserver\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AE15AA50-3AAA-4E54-9547-C14A2C6DBCBB}|ExampleServer.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kehan\\source\\repos\\ExampleClient\\ExampleClient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "F:\\examprep\\clientserverfjk\\ExampleServer\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -59,8 +59,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-30T17:04:20.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T17:04:20.133Z"
             },
             {
               "$type": "Document",
@@ -70,22 +69,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\examprep\\clientserverfjk\\ExampleServer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:04:07.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\examprep\\clientserverfjk\\ExampleClient\\Program.cs",
               "RelativeDocumentMoniker": "..\\ExampleClient\\Program.cs",
               "ToolTip": "F:\\examprep\\clientserverfjk\\ExampleClient\\Program.cs",
               "RelativeToolTip": "..\\ExampleClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:04:05.77Z"
+              "WhenOpened": "2024-12-21T16:04:05.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
