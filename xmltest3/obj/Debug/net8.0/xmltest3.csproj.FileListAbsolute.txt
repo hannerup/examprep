@@ -1,0 +1,14 @@
+C:\Users\kehan\source\repos\xmltest3\bin\Debug\net8.0\xmltest3.exe
+C:\Users\kehan\source\repos\xmltest3\bin\Debug\net8.0\xmltest3.deps.json
+C:\Users\kehan\source\repos\xmltest3\bin\Debug\net8.0\xmltest3.runtimeconfig.json
+C:\Users\kehan\source\repos\xmltest3\bin\Debug\net8.0\xmltest3.dll
+C:\Users\kehan\source\repos\xmltest3\bin\Debug\net8.0\xmltest3.pdb
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.AssemblyInfoInputs.cache
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.AssemblyInfo.cs
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.csproj.CoreCompileInputs.cache
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.dll
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\refint\xmltest3.dll
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.pdb
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\xmltest3.genruntimeconfig.cache
+C:\Users\kehan\source\repos\xmltest3\obj\Debug\net8.0\ref\xmltest3.dll

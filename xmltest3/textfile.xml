@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextContent>
+	This is an example of an XML file with a single element containing a large amount of text.
+	You can include paragraphs, line breaks, or even special characters like &amp; or &lt;.
+	The content inside this element could be anything, such as a document, message, or description.
+	You can format the text however you like, keeping everything enclosed within the 
+	tags.
+</TextContent>

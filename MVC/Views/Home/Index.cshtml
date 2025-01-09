@@ -1,0 +1,33 @@
+@model MVC.Models.GuessModel
+
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+</style>
+<script src=""></script>
+
+<body>
+    <p>Gæt tilbage: @Model.AnswersLeft</p>
+    <form asp-action="Guess" asp-controller="Home" method="post">
+        @if (Model.Above) {
+        <p>Svaret er over!</p>
+        }
+        @if (Model.Below) {
+        <p>Svaret er under!</p>
+        }
+        <div>
+            <label>Indtast et nummer (1-10)</label>
+            <input type="number" asp-for="Number" />
+        </div>
+        @if (Model.AllowGuesses) {
+        @:<button type="submit">Click me!</button>
+        }
+    </form>
+
+</body>
+
+</html>
